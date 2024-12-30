@@ -105,5 +105,3 @@ app.get("/api/shorturl/:short_url", (req, res)=>{
 app.listen(port, function() {
   console.log(`Listening on port ${port}`);
 });
-// mongodb+srv://Krishnaa:SrE3x41lcII2a3aq@cluster0.nbvzl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-// SrE3x41lcII2a3aq
